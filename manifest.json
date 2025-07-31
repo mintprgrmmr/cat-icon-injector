@@ -1,0 +1,10 @@
+{
+  "id": "cat-icon-injector",
+  "name": "Cat Icon Injector",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Inserts a cat icon into the left sidebar of Obsidian.",
+  "author": "\u041c\u0438\u043d\u0442",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
